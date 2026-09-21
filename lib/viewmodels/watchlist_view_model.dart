@@ -27,7 +27,7 @@ class WatchlistViewModel extends ChangeNotifier {
     _watchlistFuture = loadRealtimePrices();
   }
 
-  List<Stock> _stocks = [];
+  final List<Stock> _stocks = [];
   List<Realtime> _realtimePrices = [];
   WatchlistSortType _currentSortType = WatchlistSortType.name;
 
