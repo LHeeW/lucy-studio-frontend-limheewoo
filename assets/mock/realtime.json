@@ -1,0 +1,105 @@
+{
+ "resultCode": "success",
+ "result": {
+  "pollingInterval": 70000,
+  "areas": [
+   {
+    "name": "SERVICE_ITEM",
+    "datas": [
+     {
+      "cd": "005930",
+      "nm": "�Ｚ����",
+      "sv": 252500,
+      "nv": 260000,
+      "cv": 7500,
+      "cr": 2.97,
+      "rf": "2",
+      "mt": "1",
+      "ms": "CLOSE",
+      "tyn": "N",
+      "pcv": 252500,
+      "ov": 261000,
+      "hv": 262000,
+      "lv": 257500,
+      "ul": 328000,
+      "ll": 177000,
+      "aq": 15042569,
+      "aa": 3915612000000,
+      "nav": null,
+      "keps": 6605,
+      "eps": 22292,
+      "bps": 86051.82511,
+      "cnsEps": 47949,
+      "dv": 1668.0,
+      "countOfListedStock": 5846278608,
+      "highPriceOf52Weeks": 374500,
+      "lowPriceOf52Weeks": 79600,
+      "adjustedHighPriceOf52Weeks": null,
+      "adjustedLowPriceOf52Weeks": null,
+      "nxtOverMarketPriceInfo": {
+       "tradingSessionType": "AFTER_MARKET",
+       "overMarketStatus": "CLOSE",
+       "overPrice": "260,000",
+       "openPrice": "259,500",
+       "highPrice": "262,000",
+       "lowPrice": "257,500",
+       "compareToPreviousPrice": {
+        "code": "2",
+        "text": "���",
+        "name": "RISING"
+       },
+       "compareToPreviousClosePrice": "7,500",
+       "fluctuationsRatio": "2.97",
+       "localTradedAt": "2026-09-18T20:00:00.000000+09:00",
+       "tradeStopType": {
+        "code": "1",
+        "text": "�.Trading",
+        "name": "TRADING"
+       },
+       "tradableStatus": "tradable",
+       "tradableStatusCode": "ok",
+       "tradableStatusUpdatedAt": 1789683014.059,
+       "accumulatedTradingVolume": "6,577,404",
+       "accumulatedTradingValue": "1�� 7,107��",
+       "accumulatedTradingVolumeRaw": "6577404",
+       "accumulatedTradingValueRaw": "1710719000000"
+      }
+     },
+     {
+      "cd": "448330",
+      "nm": "KODEX �Ｚ����ä��ȥ��",
+      "sv": 17100,
+      "nv": 17255,
+      "cv": 155,
+      "cr": 0.91,
+      "rf": "2",
+      "mt": "1",
+      "ms": "CLOSE",
+      "tyn": "N",
+      "pcv": 17100,
+      "ov": 17260,
+      "hv": 17305,
+      "lv": 17220,
+      "ul": 22230,
+      "ll": 11970,
+      "aq": 399969,
+      "aa": 6904000000,
+      "nav": 17320.91,
+      "keps": 0,
+      "eps": null,
+      "bps": null,
+      "cnsEps": null,
+      "dv": null,
+      "countOfListedStock": 73900000,
+      "highPriceOf52Weeks": 18885,
+      "lowPriceOf52Weeks": 11865,
+      "adjustedHighPriceOf52Weeks": 18768,
+      "adjustedLowPriceOf52Weeks": 11600,
+      "nxtOverMarketPriceInfo": null
+     }
+    ]
+   }
+  ],
+  "time": 1789814397978
+ }
+}
